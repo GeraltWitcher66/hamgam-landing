@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hamgam.ir/</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hamgam.ir/compare</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/compare</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hamgam.ir/privacy</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/privacy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://hamgam.ir/terms</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/terms</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://hamgam.ir/cookies</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/cookies</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

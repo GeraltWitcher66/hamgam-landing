@@ -13,7 +13,7 @@ export const brand = {
 
 // آدرس و ایمیل‌های نمونه؛ پیش از انتشار روی دامنه‌ی واقعی عوض شوند.
 export const site = {
-  url: 'https://hamgam.ir',
+  url: 'https://geraltwitcher66.github.io/hamgam-landing',
   email: 'hello@hamgam.ir',
   sales: 'sales@hamgam.ir',
   support: 'support@hamgam.ir',
