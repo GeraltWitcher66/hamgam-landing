@@ -6,22 +6,22 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://geraltwitcher66.github.io/hamgam-landing/compare</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/compare/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geraltwitcher66.github.io/hamgam-landing/privacy</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/privacy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://geraltwitcher66.github.io/hamgam-landing/terms</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/terms/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://geraltwitcher66.github.io/hamgam-landing/cookies</loc>
+    <loc>https://geraltwitcher66.github.io/hamgam-landing/cookies/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
