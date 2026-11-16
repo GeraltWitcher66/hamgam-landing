@@ -63,8 +63,9 @@ powershell -ExecutionPolicy Bypass -File scripts/og.ps1
 3. The site appears at `https://<user>.github.io/<repo>/`.
 
 The build passes `PAGES_BASE=/<repo>/` so assets and internal links resolve
-under the subpath, and `scripts/pages.mjs` writes `404.html` and `.nojekyll`
-so deep links fall through to the app.
+under the subpath. `scripts/pages.mjs` then writes a real `index.html` for each
+route (`/compare/`, `/privacy/`, …) with its own canonical URL, plus `404.html`
+and `.nojekyll` so unknown deep links fall through to the app.
 
 ```sh
 bun run build:pages   # what the workflow runs
